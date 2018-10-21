@@ -1,0 +1,2 @@
+# moodlelang
+customized moodle strings
