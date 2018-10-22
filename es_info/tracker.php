@@ -16,7 +16,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'langconfig', language 'es_info', branch 'MOODLE_31_STABLE'
+ * Strings for component 'langconfig', language 'es_info', branch 'MOODLE_35_STABLE'
  *
  * @package   langconfig
  * @copyright 2017 onwards Enrique Castro
@@ -24,8 +24,5 @@
  */
 
 defined('MOODLE_INTERNAL') || die();
-/*
-$string['parentlanguage'] = 'es';
-$string['thislanguage'] = 'Español (Informes)';
-$string['thislanguageint'] = 'Spanish (Info)';
-*/
+
+

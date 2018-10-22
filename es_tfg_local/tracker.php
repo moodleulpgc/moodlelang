@@ -25,8 +25,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-/*
-$string['parentlanguage'] = 'es';
-$string['thislanguage'] = 'Español (TFG)';
-$string['thislanguageint'] = 'Spanish (TFG)';
-*/
+
